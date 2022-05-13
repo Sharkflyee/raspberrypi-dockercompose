@@ -1,2 +1,2 @@
-127.0.0.1 lichess.org
-127.0.0.1 chess.com
+||lichess.org^
+||chess.com^
